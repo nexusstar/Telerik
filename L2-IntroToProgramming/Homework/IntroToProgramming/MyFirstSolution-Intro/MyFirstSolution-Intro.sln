@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. HelloCSharp", "HelloCSharp\1. HelloCSharp.csproj", "{21862494-4CBC-4C65-AECD-12962E25BA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. PrintNumbers", "PrintNumbers\2. PrintNumbers.csproj", "{02EF1F99-D300-452A-932C-2A9DFB624591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. FirstLastName", "FirstLastName\3. FirstLastName.csproj", "{0CF8FD2F-6CFA-4B49-AA69-CF321CE93BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. CurrentDateAndTime", "CurentDateAndTime\4. CurrentDateAndTime.csproj", "{3D2701D3-471C-45E0-8362-DD0C0F5BDF58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. NumberSquared", "NumberSquared\5. NumberSquared.csproj", "{02142E34-C547-45C3-9621-F91B98A43B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. FirstTenNumbers", "FirstTenNumbers\6. FirstTenNumbers.csproj", "{3F79E83F-C252-42A6-B477-813505D5219A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. YourAgeAfterTenYears", "YourAgeAfterTenYears\7. YourAgeAfterTenYears.csproj", "{9B384EBB-C28F-49A7-9282-475205B7255B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21862494-4CBC-4C65-AECD-12962E25BA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21862494-4CBC-4C65-AECD-12962E25BA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21862494-4CBC-4C65-AECD-12962E25BA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21862494-4CBC-4C65-AECD-12962E25BA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02EF1F99-D300-452A-932C-2A9DFB624591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EF1F99-D300-452A-932C-2A9DFB624591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EF1F99-D300-452A-932C-2A9DFB624591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EF1F99-D300-452A-932C-2A9DFB624591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF8FD2F-6CFA-4B49-AA69-CF321CE93BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF8FD2F-6CFA-4B49-AA69-CF321CE93BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF8FD2F-6CFA-4B49-AA69-CF321CE93BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF8FD2F-6CFA-4B49-AA69-CF321CE93BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2701D3-471C-45E0-8362-DD0C0F5BDF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2701D3-471C-45E0-8362-DD0C0F5BDF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2701D3-471C-45E0-8362-DD0C0F5BDF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2701D3-471C-45E0-8362-DD0C0F5BDF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02142E34-C547-45C3-9621-F91B98A43B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02142E34-C547-45C3-9621-F91B98A43B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02142E34-C547-45C3-9621-F91B98A43B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02142E34-C547-45C3-9621-F91B98A43B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F79E83F-C252-42A6-B477-813505D5219A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F79E83F-C252-42A6-B477-813505D5219A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F79E83F-C252-42A6-B477-813505D5219A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F79E83F-C252-42A6-B477-813505D5219A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B384EBB-C28F-49A7-9282-475205B7255B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B384EBB-C28F-49A7-9282-475205B7255B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B384EBB-C28F-49A7-9282-475205B7255B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B384EBB-C28F-49A7-9282-475205B7255B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
