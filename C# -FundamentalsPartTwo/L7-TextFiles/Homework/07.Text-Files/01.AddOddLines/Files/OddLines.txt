@@ -1,0 +1,22 @@
+I was mulling over this
+tricky issue when
+I visited Kent Beck in Zurich. 
+Perhaps he was 
+under the influence of the odors of his newborn daughter at the time,
+but he had come up 
+with the notion describing the "when" of refactoring in terms of smells. 
+"Smells," you say,
+"and that is supposed to be better than vague aesthetics?" 
+Well, yes. 
+We look at lots of code, 
+written for projects that span the gamut 
+from wildly successful to nearly dead. 
+In doing so, 
+we have learned to look for certain 
+structures in the code that suggest 
+(sometimes they scream for) the possibility of refactoring. 
+(We are switching over to "we" 
+in this chapter to reflect the fact 
+that Kent and I wrote this chapter jointly.
+You can tell the difference because the funny jokes are mine
+and the others are his.)

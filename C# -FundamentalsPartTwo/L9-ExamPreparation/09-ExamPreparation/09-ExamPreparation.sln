@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MultiverseCommunication", "01.MultiverseCommunication\01.MultiverseCommunication.csproj", "{8EC74B65-D418-4104-92FF-46F7D6426DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.KaspichanNumbers", "01.KaspichanNumbers\01.KaspichanNumbers.csproj", "{D81F4B97-95FA-4E3D-83A4-6014ED41CD6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GreedyDwarf", "02.GreedyDwarf\02.GreedyDwarf.csproj", "{7ABED70F-74C9-4970-97FC-DF7F052AF3D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MagicWords", "02.MagicWords\02.MagicWords.csproj", "{14853B28-13D4-4BD1-AD57-45630BAA5BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MovingLetters", "02.MovingLetters\02.MovingLetters.csproj", "{D37730A5-0402-4066-8C82-230F6F24FD01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.EncodeAndEncrypt", "04.EncodeAndEncrypt\04.EncodeAndEncrypt.csproj", "{BB44A65D-0CCD-4DB7-96F0-60FD2219BA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indicies", "Indicies\Indicies.csproj", "{6C9B890A-2B17-40D6-ABCB-E44EC9BE19B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC74B65-D418-4104-92FF-46F7D6426DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC74B65-D418-4104-92FF-46F7D6426DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC74B65-D418-4104-92FF-46F7D6426DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC74B65-D418-4104-92FF-46F7D6426DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81F4B97-95FA-4E3D-83A4-6014ED41CD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81F4B97-95FA-4E3D-83A4-6014ED41CD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81F4B97-95FA-4E3D-83A4-6014ED41CD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81F4B97-95FA-4E3D-83A4-6014ED41CD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABED70F-74C9-4970-97FC-DF7F052AF3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABED70F-74C9-4970-97FC-DF7F052AF3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABED70F-74C9-4970-97FC-DF7F052AF3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABED70F-74C9-4970-97FC-DF7F052AF3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14853B28-13D4-4BD1-AD57-45630BAA5BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14853B28-13D4-4BD1-AD57-45630BAA5BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14853B28-13D4-4BD1-AD57-45630BAA5BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14853B28-13D4-4BD1-AD57-45630BAA5BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37730A5-0402-4066-8C82-230F6F24FD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37730A5-0402-4066-8C82-230F6F24FD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37730A5-0402-4066-8C82-230F6F24FD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37730A5-0402-4066-8C82-230F6F24FD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB44A65D-0CCD-4DB7-96F0-60FD2219BA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB44A65D-0CCD-4DB7-96F0-60FD2219BA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB44A65D-0CCD-4DB7-96F0-60FD2219BA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB44A65D-0CCD-4DB7-96F0-60FD2219BA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9B890A-2B17-40D6-ABCB-E44EC9BE19B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9B890A-2B17-40D6-ABCB-E44EC9BE19B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9B890A-2B17-40D6-ABCB-E44EC9BE19B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9B890A-2B17-40D6-ABCB-E44EC9BE19B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

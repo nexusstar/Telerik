@@ -219,3 +219,10 @@ pip-log.txt
 #############
 *.pptx
 *.ppt
+
+##########
+## Archives
+#########
+*.zip
+*.rar
+*.7z
