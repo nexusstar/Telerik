@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustCars", "JustCars\JustCars.csproj", "{9B86AC95-51E8-45C6-9585-E46AD3AF053D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FallingRocksGames", "FallingRocksGames\FallingRocksGames.csproj", "{4DBF0558-85BE-4002-84E0-8F6BC0B9A977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B86AC95-51E8-45C6-9585-E46AD3AF053D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B86AC95-51E8-45C6-9585-E46AD3AF053D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B86AC95-51E8-45C6-9585-E46AD3AF053D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B86AC95-51E8-45C6-9585-E46AD3AF053D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBF0558-85BE-4002-84E0-8F6BC0B9A977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBF0558-85BE-4002-84E0-8F6BC0B9A977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBF0558-85BE-4002-84E0-8F6BC0B9A977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBF0558-85BE-4002-84E0-8F6BC0B9A977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
